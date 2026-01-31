@@ -1,5 +1,3 @@
-<h2 align="left">Hi 👋! My name is Anush btw i use arch :)</h2>
-
 <img align="right" height="150" src="https://media.tenor.com/q3H6BzODyJAAAAAC/bocchi-bocchi-the-rock.gif"  />
 
 ###
