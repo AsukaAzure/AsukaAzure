@@ -1,6 +1,5 @@
 #  Anush 
 
-- **Portfolio**: [anush.dpdns.org](http://anush.dpdns.org)
 - **Email**: [anushkumar128@gmail.com](mailto:anushkumar128@gmail.com)
 
 ---
